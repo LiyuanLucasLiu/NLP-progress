@@ -33,6 +33,7 @@ on BLEU.
 
 | Model           | BLEU  |  Paper / Source |
 | ------------- | :-----:| --- |
+| Admin + BT (Liu et al., 2020) | 46.4 | [Very Deep Transformers for Neural Machine Translation](https://arxiv.org/abs/2008.07772) |
 | DeepL | 45.9 | [DeepL Press release](https://www.deepl.com/press.html) |
 | Transformer Big + BT (Edunov et al., 2018) | 45.6 | [Understanding Back-Translation at Scale](https://arxiv.org/pdf/1808.09381.pdf) |
 | Admin (Liu et al., 2020) | 43.8 | [Understand the Difficulty of Training Transformers](https://arxiv.org/abs/2004.08249) |
